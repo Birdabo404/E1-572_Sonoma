@@ -2,7 +2,7 @@
 
 # E1-572 Monterey
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.9-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
-[![macOS](https://img.shields.io/badge/macOS-Monterey-violet.svg)]()
+[![macOS](https://img.shields.io/badge/macOS-Ventura-yellow.svg)]()
 
 ## 💻 Specifications
 
