@@ -9,10 +9,12 @@
 | Specifications | Details                                                  |
 | ------------------- | ------------------------------------------- |
 | 🍣 CPU    | Intel Core i3-4010u Processor    					|
-| 🍞 GPU          | Intel HD 4400   		    |
+| 🍞 iGPU          | Intel HD 4400   		    |
 | 🍟 RAM | 12 GB DDR3 @ 1600MHz              |
 | 🍋 Wifi          | Tp-Link Archer T2U Nano AC600           |
 
 ## 🍙 Preview 
 
-- Nothing to see yet lol.
+- ### Settings + About this mac.
+
+  <img src="https://github.com/Birdabo404/E1-572_Ventura/blob/main/screenshots/settings%2Binfo.png" >
