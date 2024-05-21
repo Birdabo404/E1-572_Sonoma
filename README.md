@@ -2,7 +2,7 @@
 
 # E1-572 SONOMA - 해킨토시
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.9-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
-[![macOS](https://img.shields.io/badge/macOS-Ventura-yellow.svg)]()
+[![macOS](https://img.shields.io/badge/macOS-Sonoma-yellow.svg)]()
 
 ## 💻 Specifications
 
